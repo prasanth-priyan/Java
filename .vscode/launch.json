@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PE8",
+            "request": "launch",
+            "mainClass": "PE8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PE6",
+            "request": "launch",
+            "mainClass": "PE6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PE5",
             "request": "launch",
             "mainClass": "PE5"
